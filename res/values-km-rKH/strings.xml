@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="app_name">"តេស្តដំណើរការអប្បបរមា"</string>
+<string name="activity_name">"តេស្តដំណើរការអប្បបរមា"</string>
+<string name="mdt_screentitle">"តេស្តដំណើរការអប្បបរមា"</string>
+<string name="mdt_enable">"បើកដំណើរការ MDT"</string>
+<string name="mdt_logged">"រាយការព័ត៌មានរង្វាស់កំណត់ហេតុទំនេរ"</string>
+<string name="mdt_location">"រាយការណ៍ព័ត៌មានទីតាំងGNSS"</string>
+</resources>

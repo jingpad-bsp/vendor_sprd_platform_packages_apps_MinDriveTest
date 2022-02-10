@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Minimal Drive Test</string>
+    <string name="activity_name">Minimal Drive Test</string>
+    <string name="mdt_screentitle">Minimal Drive Test</string>
+
+    <string name="mdt_enable">MDT Enable</string>
+    <string name="mdt_logged">Report Idle Logged Measurement Info</string>
+    <string name="mdt_location">Report GNSS Location Info</string>
+</resources>

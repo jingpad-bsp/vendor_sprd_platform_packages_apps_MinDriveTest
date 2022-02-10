@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">最小化路测</string>
+    <string name="activity_name">最小化路测</string>
+    <string name="mdt_screentitle">最小化路测</string>
+
+    <string name="mdt_enable">最小化路测开关</string>
+    <string name="mdt_logged">测量记录上报开关</string>
+    <string name="mdt_location">GNSS定位上报开关</string>
+</resources>

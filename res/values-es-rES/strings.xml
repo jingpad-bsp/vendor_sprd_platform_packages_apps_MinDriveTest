@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="app_name">"Versión de prueba mínima"</string>
+<string name="activity_name">"Versión de prueba mínima"</string>
+<string name="mdt_screentitle">"Versión de prueba mínima"</string>
+<string name="mdt_enable">"MDT activado"</string>
+<string name="mdt_logged">"Proporcionar información de medición registrada de inactividad"</string>
+<string name="mdt_location">"Proporcionar información de ubicación de GNSS"</string>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="app_name">"ယာဥ္ေမာင္းေနခ်ိန္ ကြန္ရက္စြမ္းေဆာင္ႏိုင္ေျခအား စမ္းသပ္မႈကို ေလွ်ာ့ခ်မႈ"</string>
+<string name="activity_name">"ယာဥ္ေမာင္းေနခ်ိန္ ကြန္ရက္စြမ္းေဆာင္ႏိုင္ေျခအား စမ္းသပ္မႈကို ေလွ်ာ့ခ်မႈ"</string>
+<string name="mdt_screentitle">"ယာဥ္ေမာင္းေနခ်ိန္ ကြန္ရက္စြမ္းေဆာင္ႏိုင္ေျခအား စမ္းသပ္မႈကို ေလွ်ာ့ခ်မႈ"</string>
+<string name="mdt_enable">"MDT ဖြင့္ၿပီး"</string>
+<string name="mdt_logged">"Idle သို႔ စာရင္းဝင္သည့္ တိုင္းတာမႈအခ်က္အလက္ကို အစီရင္ခံပါ"</string>
+<string name="mdt_location">"GNSS တည္ေနရာအခ်က္အလက္ကို အစီရင္ခံရန္"</string>
+</resources>

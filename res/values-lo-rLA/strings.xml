@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="app_name">"ການທົດສອບໄດຣຟ໌ເລັກໜ້ອຍ"</string>
+<string name="activity_name">"ການທົດສອບໄດຣຟ໌ເລັກໜ້ອຍ"</string>
+<string name="mdt_screentitle">"ການທົດສອບໄດຣຟ໌ເລັກໜ້ອຍ"</string>
+<string name="mdt_enable">"ເປີດນຳໃຊ້ MDT"</string>
+<string name="mdt_logged">"ລາຍງານຂໍ້ມູນວັດແທກທີ່ບັນທຶກໄວ້"</string>
+<string name="mdt_location">"ລາຍງານຂໍ້ມູນທີ່ຕັ້ງ GNSS"</string>
+</resources>

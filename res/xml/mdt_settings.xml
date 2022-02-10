@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:settings="http://schemas.android.com/apk/res/com.android.settings"
+    android:title="@string/mdt_screentitle"
+    android.key="mdt_switch">
+
+    <SwitchPreference
+    android:key="mdt_enable"
+    android:title="@string/mdt_enable" />
+
+    <CheckBoxPreference
+    android:key="mdt_logged"
+    android:title="@string/mdt_logged"
+    android:dependency="mdt_enable"/>
+
+    <CheckBoxPreference
+    android:key="mdt_location"
+    android:title="@string/mdt_location"
+    android:dependency="mdt_enable"/>
+
+</PreferenceScreen>
